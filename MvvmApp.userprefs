@@ -1,0 +1,19 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupConfiguration="{27C7B4E8-7B34-4FA3-94B0-80C162A24D88}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvvmApp/ViewModels/LoginViewModel.cs">
+    <Files>
+      <File FileName="MvvmApp/View/LoginView.xaml" Line="1" Column="1" />
+      <File FileName="MvvmApp/ViewModels/LoginViewModel.cs" Line="1" Column="1" />
+      <File FileName="MvvmApp/View/LoginView.xaml.cs" Line="1" Column="1" />
+      <File FileName="MvvmApp/MvvmApp.cs" Line="1" Column="1" />
+      <File FileName="MvvmApp/ViewModels/MainViewModel.cs" Line="17" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MvvmApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AD9FA81D-99D7-43D5-9EFA-132EADC10D7D" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="MvvmApp/ViewModels/LoginViewModel.cs" line="60" offsetX="517" offsetY="885" expression="this._navegationService" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
